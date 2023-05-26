@@ -1,6 +1,6 @@
 # MiniRT
 
-MiniRT is a simple ray tracer built using minilibx that is capable of rendering planes, spheres, cylinders (mandatory part), and cones (bonus part) to generate a 2D image representing the 3D scene. 
+MiniRT is a simple ray tracer, built using minilibx, that is capable of rendering planes, spheres, cylinders (mandatory part), and cones (bonus part) to generate a 2D image representing the 3D scene. 
 The ray tracer features light management, including spot brightness, hard shadows, and ambiance lighting (objects are never completely in the dark). It implements ambient and diffuse lighting in the mandatory part, and ambient, diffuse, and specular lighting in the bonus part.
 
 ![minirt](https://user-images.githubusercontent.com/85483589/235368453-bfb95863-edff-42ce-9cce-3e2be0f034a7.png)
